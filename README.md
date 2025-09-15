@@ -16,7 +16,7 @@
     <!-- Dark mode icon -->
     <source srcset="https://github.com/salsuliman/salsuliman/raw/main/107149_gray_circle_linkedin_icon.png" media="(prefers-color-scheme: dark)" />
     <!-- Light mode icon -->
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <source srcset="https://github.com/salsuliman/salsuliman/blob/main/5279114_linkedin_network_social%20network_linkedin%20logo_icon.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <!-- Fallback -->
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </picture>
@@ -98,7 +98,7 @@ hobbies: ["Gaming", "Tv Series", "Youtube", "Football"]
     />
     <!-- Light Mode -->
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&hide_border=true&theme=default" 
+      srcset="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&hide_border=true&theme=default&title_color=3C3B3F&text_color=3C3B3F" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
     <!-- Default fallback -->
@@ -117,12 +117,12 @@ hobbies: ["Gaming", "Tv Series", "Youtube", "Football"]
     />
     <!-- Light Mode -->
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=salsuliman&layout=compact&hide_border=true&langs_count=6&theme=default" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=salsuliman&layout=compact&hide_border=true&langs_count=6&theme=default&title_color=3C3B3F&text_color=3C3B3F" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
     <!-- Default fallback -->
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsuliman&layout=compact&hide_border=true&langs_count=6&theme=default" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsuliman&layout=compact&hide_border=true&langs_count=6&theme=default&title_color=F5F5F5&text_color=F5F5F5" 
       alt="Top Languages" 
     />
   </picture>
