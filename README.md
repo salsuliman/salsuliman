@@ -68,23 +68,45 @@ hobbies: ["Gaming", "Tv Series", "Youtube", "Football"]
 
 
 </p> 
-<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
   <!-- GitHub Stats -->
   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&theme=transparent&title_color=F5F5F5&text_color=F5F5F5&icon_color=F5F5F5&hide_border=true"
-      media="(prefers-color-scheme: dark)"
+    <!-- Dark Mode -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&hide_border=true&theme=dark&title_color=F5F5F5&text_color=F5F5F5" 
+      media="(prefers-color-scheme: dark)" 
     />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&theme=transparent&title_color=F5F5F5&text_color=F5F5F5&icon_color=F5F5F5&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    <!-- Light Mode -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&hide_border=true&theme=default" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&theme=transparent&title_color=F5F5F5&text_color=F5F5F5&icon_color=F5F5F5&hide_border=true" alt="GitHub Stats" width="380" height="180"/>
+    <!-- Default fallback -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&hide_border=true&theme=default" 
+      alt="GitHub Stats" 
+    />
   </picture>
-  
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsuliman&layout=compact&theme=transparent&langs_count=6&title_color=F5F5F5&text_color=F5F5F5&icon_color=F5F5F5&hide_border=true" alt="Top Languages" width="380" height="180"/>
+  <picture>
+    <!-- Dark Mode -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=salsuliman&layout=compact&hide_border=true&langs_count=6&theme=dark&title_color=F5F5F5&text_color=F5F5F5" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <!-- Light Mode -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=salsuliman&layout=compact&hide_border=true&langs_count=6&theme=default" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    />
+    <!-- Default fallback -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsuliman&layout=compact&hide_border=true&langs_count=6&theme=default" 
+      alt="Top Languages" 
+    />
+  </picture>
 
 </div>
 
