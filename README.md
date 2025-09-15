@@ -1,27 +1,8 @@
 <p align="center">
-  <!-- Hello Banner -->
-  <picture>
-    <!-- Dark Mode -->
-    <source srcset="https://capsule-render.vercel.app/api?text=Hello&animation=fadeIn&type=waving&color=0:3C3B3F,100:605C3C&height=100&fontColor=F5F5F5"
-            media="(prefers-color-scheme: dark)" />
-    <!-- Light Mode -->
-    <source srcset="https://capsule-render.vercel.app/api?text=Hello&animation=fadeIn&type=waving&color=0:F5F5F5,100:DDDDDD&height=100&fontColor=3C3B3F"
-            media="(prefers-color-scheme: light)" />
-    <img src="https://capsule-render.vercel.app/api?text=Hello&animation=fadeIn&type=waving&color=0:3C3B3F,100:605C3C&height=100&fontColor=F5F5F5"/>
-  </picture>
-  <br>
-  <!-- LinkedIn -->
+  <img src="https://capsule-render.vercel.app/api?text=Hello&animation=fadeIn&type=waving&color=0:3C3B3F,100:605C3C&height=100&fontColor=F5F5F5"/><br>
   <a href="https://www.linkedin.com/in/alsuliman-sara/">
-  <picture>
-    <!-- Dark mode icon -->
-    <source srcset="https://github.com/salsuliman/salsuliman/raw/main/107149_gray_circle_linkedin_icon.png" media="(prefers-color-scheme: dark)" />
-    <!-- Light mode icon -->
-    <source srcset="https://github.com/salsuliman/salsuliman/blob/main/5279114_linkedin_network_social%20network_linkedin%20logo_icon.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <!-- Fallback -->
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
-  </picture>
-</a>
-
+    <img height="40" src="https://github.com/salsuliman/salsuliman/raw/main/107149_gray_circle_linkedin_icon.png" alt="LinkedIn" style="margin-top:10px;"/>
+  </a>
 </p>
 
 <h2 align="left">
@@ -35,7 +16,7 @@ current_focus: Aspiring AI Engineer
 education:
   [
     "Bachelor's in Computer Science",
-    "AI & Machine Learning Bootcamp Courses"
+    "AI & Data Sience Bootcamp"
   ]
 interests:
   [
@@ -87,45 +68,23 @@ hobbies: ["Gaming", "Tv Series", "Youtube", "Football"]
 
 
 </p> 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
 
   <!-- GitHub Stats -->
   <picture>
-    <!-- Dark Mode -->
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&hide_border=true&theme=dark&title_color=F5F5F5&text_color=F5F5F5" 
-      media="(prefers-color-scheme: dark)" 
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&theme=transparent&title_color=F5F5F5&text_color=F5F5F5&icon_color=F5F5F5&hide_border=true"
+      media="(prefers-color-scheme: dark)"
     />
-    <!-- Light Mode -->
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&hide_border=true&theme=default&title_color=3C3B3F&text_color=3C3B3F" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&theme=transparent&title_color=F5F5F5&text_color=F5F5F5&icon_color=F5F5F5&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <!-- Default fallback -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&hide_border=true&theme=default" 
-      alt="GitHub Stats" 
-    />
+    <img src="https://github-readme-stats.vercel.app/api?username=salsuliman&show_icons=true&theme=transparent&title_color=F5F5F5&text_color=F5F5F5&icon_color=F5F5F5&hide_border=true" alt="GitHub Stats" width="380" height="180"/>
   </picture>
-
+  
   <!-- Top Languages -->
-  <picture>
-    <!-- Dark Mode -->
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=salsuliman&layout=compact&hide_border=true&langs_count=6&theme=dark&title_color=F5F5F5&text_color=F5F5F5" 
-      media="(prefers-color-scheme: dark)" 
-    />
-    <!-- Light Mode -->
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=salsuliman&layout=compact&hide_border=true&langs_count=6&theme=default&title_color=3C3B3F&text_color=3C3B3F" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-    />
-    <!-- Default fallback -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsuliman&layout=compact&hide_border=true&langs_count=6&theme=default&title_color=F5F5F5&text_color=F5F5F5" 
-      alt="Top Languages" 
-    />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsuliman&layout=compact&theme=transparent&langs_count=6&title_color=F5F5F5&text_color=F5F5F5&icon_color=F5F5F5&hide_border=true" alt="Top Languages" width="380" height="180"/>
 
 </div>
 
@@ -133,18 +92,6 @@ hobbies: ["Gaming", "Tv Series", "Youtube", "Football"]
   Always learning, always building.
 </p>
 
+
 <p align="center">
-  <!-- Hello Banner -->
-  <picture>
-    <!-- Dark Mode -->
-    <source srcset="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=0:3C3B3F,100:605C3C&height=100&fontColor=F5F5F5"
-            media="(prefers-color-scheme: dark)" />
-    <!-- Light Mode -->
-    <source srcset="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=0:F5F5F5,100:DDDDDD&height=100&fontColor=3C3B3F"
-            media="(prefers-color-scheme: light)" />
-    <img src="https://capsule-render.vercel.app/api?text=Hello&animation=fadeIn&type=waving&color=0:3C3B3F,100:605C3C&height=100&fontColor=F5F5F5"/>
-  </picture>
-
-
-
-  
+<img src="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=0:3C3B3F,100:605C3C&height=100&fontColor=F5F5F5"/><br></p>
