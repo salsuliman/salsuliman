@@ -1,8 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello&animation=fadeIn&type=waving&color=0:3C3B3F,100:605C3C&height=100&fontColor=F5F5F5"/><br>
+  <!-- Hello Banner -->
+  <picture>
+    <!-- Dark Mode -->
+    <source srcset="https://capsule-render.vercel.app/api?text=Hello&animation=fadeIn&type=waving&color=0:3C3B3F,100:605C3C&height=100&fontColor=F5F5F5"
+            media="(prefers-color-scheme: dark)" />
+    <!-- Light Mode -->
+    <source srcset="https://capsule-render.vercel.app/api?text=Hello&animation=fadeIn&type=waving&color=0:F5F5F5,100:DDDDDD&height=100&fontColor=3C3B3F"
+            media="(prefers-color-scheme: light)" />
+    <img src="https://capsule-render.vercel.app/api?text=Hello&animation=fadeIn&type=waving&color=0:3C3B3F,100:605C3C&height=100&fontColor=F5F5F5"/>
+  </picture>
+  <br>
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/alsuliman-sara/">
-    <img height="40" src="https://github.com/salsuliman/salsuliman/raw/main/107149_gray_circle_linkedin_icon.png" alt="LinkedIn" style="margin-top:10px;"/>
-  </a>
+  <picture>
+    <!-- Dark mode icon -->
+    <source srcset="https://github.com/salsuliman/salsuliman/raw/main/107149_gray_circle_linkedin_icon.png" media="(prefers-color-scheme: dark)" />
+    <!-- Light mode icon -->
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <!-- Fallback -->
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+  </picture>
+</a>
+
 </p>
 
 <h2 align="left">
@@ -114,11 +133,17 @@ hobbies: ["Gaming", "Tv Series", "Youtube", "Football"]
   Always learning, always building.
 </p>
 
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=0:3C3B3F,100:605C3C&height=100&fontColor=F5F5F5"/><br></p>
-
-
+  <!-- Hello Banner -->
+  <picture>
+    <!-- Dark Mode -->
+    <source srcset="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=0:3C3B3F,100:605C3C&height=100&fontColor=F5F5F5"
+            media="(prefers-color-scheme: dark)" />
+    <!-- Light Mode -->
+    <source srcset="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=0:F5F5F5,100:DDDDDD&height=100&fontColor=3C3B3F"
+            media="(prefers-color-scheme: light)" />
+    <img src="https://capsule-render.vercel.app/api?text=Hello&animation=fadeIn&type=waving&color=0:3C3B3F,100:605C3C&height=100&fontColor=F5F5F5"/>
+  </picture>
 
 
 
