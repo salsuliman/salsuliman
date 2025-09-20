@@ -64,7 +64,7 @@ hobbies: ["Gaming", "Tv Series", "Youtube", "Football"]
 
 <!-- Version Control / Platforms -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+<img src="https://github.com/salsuliman/salsuliman/blob/main/github-mark-white.png" alt="github" width="45" height="45"/>
 
 
 </p> 
